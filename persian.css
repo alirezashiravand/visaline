@@ -1,0 +1,720 @@
+.gm-style .place-card-large{
+    display:none !important
+}
+
+
+
+/* home arzyabi */
+
+
+
+.forms-btn{
+    border-radius: 30px !important;
+}
+
+
+
+/* home arzyabi */
+
+/* home forms */
+.home_forms{
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+
+
+
+/* home forms */
+
+/* footer */
+.widget-title{
+    font-family: iranyekan !important;    
+}
+.footernumber{
+    color: white;
+    font-size: 18px;
+}
+
+/* footer */
+/* home services */
+.Service_image{
+border-radius: 20px;
+}
+
+.service_container > .fusion-column-wrapper{
+border-radius: 20px !important;
+}
+
+.Service_btn{
+    border-radius: 20px !important;
+}
+
+
+
+/* home services */
+
+
+
+
+/* home herosection */
+
+.content > h2{
+    margin-left: 2%;
+}
+
+
+#post-8 > div > div.fusion-fullwidth.fullwidth-box.fusion-builder-row-1.hundred-percent-fullwidth.non-hundred-percent-height-scrolling > div > div{
+    margin-bottom: 0px !important;
+}
+
+
+/* home herosection */
+
+
+
+
+/* home portfolio */
+
+#post-8 > div > div.fusion-fullwidth.fullwidth-box.fusion-builder-row-2.fusion-parallax-none.nonhundred-percent-fullwidth.non-hundred-percent-height-scrolling.fusion-equal-height-columns > div > div > div > div.fusion-column-content-centered > div > div.fusion-recent-works.fusion-portfolio-element.fusion-portfolio.fusion-portfolio-1.fusion-portfolio-grid.fusion-portfolio-paging-pagination.fusion-portfolio-three.fusion-portfolio-boxed.fusion-portfolio-text.fusion-portfolio-equal-heights.fusion-portfolio-rollover > div:nth-child(1) > ul{
+    margin-right: 3%;
+}
+
+.fusion-filters{
+    border-color: transparent !important;
+    margin-right: 1% !important;
+}
+
+.fusion-filters >li{
+    background-color: #666666;
+    width: 15%;
+    border-radius: 30px !important;
+    text-align: center;
+    margin-right: 1% !important;
+}
+
+.fusion-filters >li> a{
+    color: white !important;
+}
+
+
+.blog-shortcode-post-title >a{
+    color: #003874;
+}
+.blog-shortcode-post-title >a :hover{
+    color: #d1ab66!important;
+}
+
+/* home portfolio */
+
+#main{
+    font-family:Iranyekan !important;
+}
+#side-header .fusion-logo, .fusion-header .fusion-logo{
+    margin:unset !important;
+}
+
+
+#rev_slider_2_1 > rs-arrow.tp-rightarrow.tparrows.custom{
+    background-color:#003874;
+}
+#rev_slider_2_1 > rs-arrow.tp-leftarrow.tparrows.custom{
+    background-color:#003874;
+}
+
+/* header */
+.fusion-main-menu {
+    margin-top: 2%;
+}
+.fusion-header{
+    height : unset !important;
+}
+
+.fusion-main-menu .fusion-dropdown-menu .sub-menu li a :hover{
+    color: white !important;
+}
+
+/* header */
+
+
+/* btns */
+.fusion-button-text{
+    font-family: iranyekan;
+}
+
+/* btns */
+
+
+/* callVisaline */
+
+.MoreInformation{
+    padding-right: 6%;
+}
+.mainCta{
+    border-radius: 30px !important;
+}
+
+
+/* callVisaline */
+
+/* header logo */
+.fusion-logo img{
+    width: 68%;
+    margin-top: 4%;
+    margin-bottom: 4%;
+
+}
+
+.fusion-is-sticky .fusion-logo img{
+    width: 68%;
+    margin-top: 4%;
+}
+#wrapper > header > div.fusion-header-v1.fusion-logo-alignment.fusion-logo-left.fusion-sticky-menu-1.fusion-sticky-logo-1.fusion-mobile-logo-1.fusion-mobile-menu-design-flyout.fusion-header-has-flyout-menu > div.fusion-header.fusion-sticky-shadow > div > div > div.fusion-logo > a > img.fusion-sticky-logo{
+    width: 68%;
+}
+/* header logo */
+
+
+/* headerbackground */
+
+
+/* headerbackground */
+
+/*header top search*/
+li.astm-search-menu.is-menu.default{
+    display: block;
+    position: relative;
+    
+}
+.fusion-search-form-classic #bbpress-forums .bbp-search-form #bbp_search, .fusion-search-form-classic .searchform .fusion-search-form-content .fusion-search-field input{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-family: iranYekan !important;
+    
+}
+.avada-select .select2-container .select2-choice .select2-arrow, .avada-select .select2-container .select2-choice2 .select2-arrow, .searchform .fusion-search-form-content .fusion-search-button input[type=submit], .select2-container .select2-choice>.select2-chosen, .select2-container--default .select2-selection--single .select2-selection__rendered{
+    line-height: 29px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: #003874;
+}
+
+.avada-select .select2-container .select2-choice .select2-arrow, .avada-select .select2-container .select2-choice2 .select2-arrow, .searchform .fusion-search-form-content .fusion-search-button input[type=submit], .select2-container .select2-choice>.select2-chosen, .select2-container--default .select2-selection--single .select2-selection__rendered:hover{
+    background-color: #D1AB66 ;
+}
+
+
+.fusion-body.rtl .fusion-header-wrapper .fusion-header-v1 .fusion-main-menu>ul>li:last-child, .fusion-body.rtl .fusion-header-wrapper .fusion-header-v2 .fusion-main-menu>ul>li:last-child, .fusion-body.rtl .fusion-header-wrapper .fusion-header-v3 .fusion-main-menu>ul>li:last-child, .fusion-body.rtl .fusion-header-wrapper .fusion-header-v4 .fusion-main-menu>ul>li:last-child, .fusion-body.rtl .fusion-header-wrapper .fusion-header-v5 .fusion-main-menu>ul>li:last-child, .fusion-body.rtl .fusion-header-wrapper .fusion-header-v7 .fusion-main-menu>ul>li:last-child{
+    padding-left: 0;
+    
+}
+
+/*header top search*/
+/* form inquire professional */
+
+
+#gform_submit_button_3{
+    font-family: iranyekan;
+    border-radius: 20px;
+    background-color: #D1AB66;
+}
+
+#gform_submit_button_3 :hover{
+    background-color: #003874;
+}
+
+
+.select-arrow{
+    display:none !important;
+}
+.gfield_label{
+    font-size:16px !important;
+}
+
+#input_1_1{
+    height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_3{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_6{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_7{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_8{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_9{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+
+#input_1_10{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+
+#input_1_14{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_15{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_18{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_19{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_20{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_21{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_23{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_24{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_25{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_26{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_28{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_30{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_29{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_31{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_32{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+#input_1_36{
+    
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 15px;
+}
+
+#input_1_4_2{
+    height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_1_4_1{
+    height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_1_4_3{
+    height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#label_1_34_0{
+    font-size: 16px;
+}
+#label_1_34_1{
+    font-size: 16px;
+}
+
+#field_1_17{
+    font-size:18px;
+    color: #003874;
+}
+#field_1_22{
+    font-size:18px;
+    color: #003874;
+}
+
+
+
+/* form inquire Investment */
+#gform_submit_button_1{
+    font-family: iranyekan;
+    border-radius: 20px;
+    background-color: #D1AB66;
+}
+
+#gform_submit_button_1 :hover{
+    background-color: #003874;
+}
+
+
+
+
+#input_3_1{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_3{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_6{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_7{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_8{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_9{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_40{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_10{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_18{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_19{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_20{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_21{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_23{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_24{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_25{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_26{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_28{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_30{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_29{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_31{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_32{
+height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_36{
+
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+
+
+#input_3_4_2{
+    height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_4_1{
+    height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_3_4_3{
+    height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+
+#field_3_17{
+    font-size: 18px;
+    color: #003874;
+}
+#field_3_22{
+    font-size: 18px;
+    color: #003874;
+}
+
+/* form inquire Investment */
+
+/* all forms counter */
+
+.ginput_counter{
+    font-family: sans-serif !important;
+}
+.instruction {
+    font-family: sans-serif !important;
+}
+/* all forms counter */
+
+/* form contactUS */
+
+#input_2_2{
+    height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_2_3{
+    height: 36px;
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+#input_2_4{
+    border-radius: 8px;
+    border: 2px solid lightgray;
+    font-size: 13px;
+}
+
+#gform_submit_button_2{
+    font-family: iranyekan;
+    border-radius: 20px;
+    background-color: #D1AB66;
+}
+#gform_submit_button_2:hover{
+    background-color: #003874;
+}
+
+/* form contactUS */
+
+/*  contactUS */
+
+.ontactus-icons{
+    width:5% !important;
+}
+
+
+
+
+/* contactus Tabs */
+
+.tab-pane{
+    background-color: transparent !important;
+}
+
+.fusion-tabs.fusion-tabs-1 .nav-tabs li.active a.tab-link, .fusion-tabs.fusion-tabs-1 .nav-tabs li.active a.tab-link:hover, .fusion-tabs.fusion-tabs-1 .nav-tabs li.active a.tab-link:focus{
+    background-color: #d1ab66 !important;
+    border-radius: 39px;
+
+}
+.fusion-tabs.fusion-tabs-1 .nav-tabs li.active a.tab-link, .fusion-tabs.fusion-tabs-1 .nav-tabs li.active a.tab-link:hover, .fusion-tabs.fusion-tabs-1 .nav-tabs li.active a.tab-link:focus{
+    border-right-color: transparent !important;
+}
+.tab-link{
+    border-radius: 39px !important;
+    width: 98% !important;
+}
+
+.fusion-blog-pagination .fusion-hide-pagination-text .pagination-next:hover, .fusion-blog-pagination .fusion-hide-pagination-text .pagination-prev:hover, .fusion-blog-pagination .pagination .current, .fusion-blog-pagination .pagination a.inactive:hover, .fusion-date-and-formats .fusion-date-box, .fusion-filters .fusion-filter.fusion-active a, .fusion-hide-pagination-text .fusion-blog-pagination .pagination .pagination-next:hover, .fusion-hide-pagination-text .fusion-blog-pagination .pagination .pagination-prev:hover, .fusion-login-box a:hover .reading-box, .fusion-tabs.classic .nav-tabs > li.active .tab-link, .fusion-tabs.classic .nav-tabs > li.active .tab-link:focus, .fusion-tabs.classic .nav-tabs > li.active .tab-link:hover, .fusion-tabs.vertical-tabs.classic .nav-tabs > li.active .tab-link, .table-2 table thead{
+    border-color:transparent !important
+}
+
+.fusion-tabs.fusion-tabs-1 .nav, .fusion-tabs.fusion-tabs-1 .nav-tabs, .fusion-tabs.fusion-tabs-1 .tab-content .tab-pane{
+    border-color: transparent !important;
+}
+.fusion-tabs .nav-tabs li .fusion-tab-heading{
+    color: white !important;
+}
+.fusion-tabs.fusion-tabs-1 .nav-tabs li a.tab-link{
+    background-color: #70707061 !important
+}
+.fusion-tabs.fusion-tabs-1 .nav-tabs li a.tab-link:hover{
+    background-color: #003874 !important
+}
+
+/* contactus Tabs */
+
+.fusion-post-content-wrapper{
+    background-color: white !important;
+}
+
+
+/* footer align */
+#wrapper .fusion-vertical-menu-widget.right .menu{
+    text-align:center !important;
+}
+.widget-title{
+    text-align: center;
+}
+
+/* footer align */
+
+@media (max-width:500px){
+    #post-8 > div > div.fusion-fullwidth.fullwidth-box.fusion-builder-row-2.fusion-parallax-none.nonhundred-percent-fullwidth.non-hundred-percent-height-scrolling.fusion-equal-height-columns > div > div > div > div.fusion-column-content-centered > div > div.fusion-recent-works.fusion-portfolio-element.fusion-portfolio.fusion-portfolio-1.fusion-portfolio-grid.fusion-portfolio-paging-pagination.fusion-portfolio-three.fusion-portfolio-boxed.fusion-portfolio-text.fusion-portfolio-equal-heights.fusion-portfolio-rollover > div:nth-child(1) > ul{
+        display: grid !important;
+        position: initial !important;
+        width: 600% !important;
+    }
+    .MoreInformation{
+        padding-right: unset ;
+    }
+
+    .firstPage-form-content{
+        text-align: center !important;
+        padding: 4% !important;
+    }
+    #post-8 > div > div.fusion-fullwidth.fullwidth-box.fusion-builder-row-3.home_forms.hundred-percent-fullwidth.non-hundred-percent-height-scrolling > div > div.fusion-layout-column.fusion_builder_column.fusion_builder_column_1_2.fusion-builder-column-9.fusion-one-half.fusion-column-last.firstPage-form-content.\31 _2 > div > div.fusion-title.title.fusion-title-1.fusion-sep-none.fusion-title-text.fusion-title-size-two.firstPage_form_h2.fusion-border-below-title > h2:nth-child(2){
+        text-align: center !important;
+    }
+    .fusion-footer{
+        text-align:center !important
+    }
+}
+
+
+
+@media(max-width:700px){
+    .forms-seperator{
+        display: none !important;
+    }
+}
